@@ -1,6 +1,7 @@
 {
-  "name": "furqansiddiqui/erc20-php",
+  "name": "uran1980/erc20-php",
   "type": "library",
+  "version": "0.1.4",
   "description": "Interact with any ERC20 standard Ethereum token",
   "keywords": [
     "erc20",
@@ -15,7 +16,7 @@
   "require": {
     "php": ">=7.1.0",
     "ext-bcmath": "*",
-    "furqansiddiqui/ethereum-rpc": "^0.1.5"
+    "uran1980/ethereum-rpc": "^0.1.5"
   },
   "autoload": {
     "psr-4": {
