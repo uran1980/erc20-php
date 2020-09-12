@@ -16,7 +16,7 @@
   "require": {
     "php": ">=7.1.0",
     "ext-bcmath": "*",
-    "uran1980/ethereum-rpc": "^0.1.5"
+    "uran1980/ethereum-rpc": "^0.1.6"
   },
   "autoload": {
     "psr-4": {
